@@ -1,2 +1,2 @@
 all:
-	gcc main.c -o Helloworld.out
+	gcc -o Application.out main.c function.c
