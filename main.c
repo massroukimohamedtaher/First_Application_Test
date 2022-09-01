@@ -1,5 +1,6 @@
 #include "function.h"
-#include "stdint.h"
+#include <stdio.h>
+#include <stdint.h>
 
 
 uint16_t var1 ;
