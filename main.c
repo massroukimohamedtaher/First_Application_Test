@@ -4,7 +4,7 @@
 
 
 uint16_t var1 ;
-
+uin16_t  var2 ;
 int main(void)
 {
     printf("Hi I am Taher");
